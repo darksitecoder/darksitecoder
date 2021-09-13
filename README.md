@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darksitecoder
+- 👋 Hi, I’m Sumit | @darksitecoder
 - 👀 I’m interested in almost everything. My aim is to explore every tech in the software field.
 - 🌱 I’m currently learning web development, cross-platform mobile app development and with this Java for DSA.
 - 💞️ I’m looking to collaborate on everything. I have a wide perspective in every field, I believe in learning and growing techniques.

@@ -7,7 +7,7 @@
 - 
 - Facebook - https://www.facebook.com/profile.php?id=100028774210861
 - 
-- Instagram - https://www.instagram.com/codeobsessed/     |     https://www.instagram.com/darksitecoder/
+- Instagram - https://www.instagram.com/codeobsessed/         |            https://www.instagram.com/darksitecoder/
 - 
 - Linkdin - https://www.linkedin.com/in/sumit-pal-87a411192/
 

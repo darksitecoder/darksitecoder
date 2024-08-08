@@ -106,13 +106,6 @@
 </br>
 </br>
 
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-&nbsp; <img width="10%" align="center" src ="https://avatars.githubusercontent.com/u/50999497?v=4"/>
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" src="https://activity-graph.herokuapp.com/graph?username=darksitecoder&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
-
 
 </br>
 
